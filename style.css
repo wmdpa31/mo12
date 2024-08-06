@@ -209,7 +209,7 @@ body {
 }
 
 .countdownTimeInfo {
-  color: #6B7EB0;
+  color: #EE7474;
   font-weight: 600;
 }
 
@@ -251,7 +251,7 @@ body {
 
 #locationSection {
   margin-top: 3%;
-  background-color: #EFF2F7;
+  background-color: #F7F3F3;
   height: 265px;
 }
 
@@ -316,7 +316,7 @@ main {
 }
 
 .accordion {
-  background-color: #EFF2F7;
+  background-color: #F7F3F3;
   color: black;
   cursor: pointer;
   padding: 0.8rem;
@@ -396,7 +396,7 @@ main {
 }
 
 #MapIconDiv {
-  color: #000000;
+  color: #ffffff;
   font-size: 13px;
   text-align: center;
   background-color: white;
@@ -408,7 +408,7 @@ main {
 }
 
 #kakaoMapButton {
-  background-color: #ffffff;
+  background-color: #CD6867;
   padding: 10px;
   text-align: center;
   width: auto;

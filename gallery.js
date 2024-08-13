@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "최승민 ♥ 박영주의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
-        imageUrl: "https://i.imgur.com/Id0xiK7.png",
+        imageUrl: "https://i.imgur.com/XsOP204.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {

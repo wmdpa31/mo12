@@ -117,7 +117,7 @@ window.onload = () => {
     window.location.href = link;
   });
 
-  BGM
+  //BGM
   const playButton = document.getElementById("playButton");
   const audio = document.getElementById("bgm");
   // 초기 상태는 play.png
